@@ -11,9 +11,7 @@ This is an unofficial application (with some minor bugfix, see [Changelog](#chan
     * create project at github
 
 
-## About
-
-#### Contacts
+## Contacts
 
 * Github: <https://github.com/jinaPlus>
 * Email: [brightest.jina@gmail.com](mailto:brightest.jina@gmail.com)
